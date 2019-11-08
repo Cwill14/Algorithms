@@ -46,7 +46,7 @@ def find_max_profit(prices):
     #   return the max profit
     return max_profit
 
-print(find_max_profit([100, 90, 80, 50, 20, 10]))
+print(find_max_profit([1050, 270, 1540, 3800, 2]))
 
 # if __name__ == '__main__':
 #   # This is just some code to accept inputs from the command line
